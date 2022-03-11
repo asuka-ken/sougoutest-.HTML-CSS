@@ -1,0 +1,53 @@
+/* かんせい！！！ */
+*{
+  margin: 0;
+  padding: 0;
+  width: 100vw;
+  height: 100vh;
+}
+body{
+  width: 100%;
+  height: 100%;
+}
+
+.top{
+  width: 100%;
+  height: 30%;
+  display: flex;
+}
+.box1{
+  width: 30%;
+  height: 100%;
+  background-color: #573F2E;
+}
+.box2{
+  width: 70%;
+  height: 100%;
+  background-color: #3E2D21;
+}
+
+
+.bottom{
+  width: 100%;
+  height: 70%;
+  display: flex;
+}
+.box3{
+  width: 30%;
+  height: 100%;
+  background-color: #FAEDED;
+}
+.bottom-right{
+  width: 70%;
+  height: 100%;
+}
+.box4{
+  width: 100%;
+  height: 70%;
+  background-color: #6A4021;
+}
+.box5{
+  width: 100%;
+  height: 30%;
+  background-color: #3E2D21;
+}

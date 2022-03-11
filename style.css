@@ -1,0 +1,50 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.overall{
+  width: 100vw;
+  height: 100vh;
+  /* background-color: #573F2E; */
+
+}
+
+.box1{
+  width: 30vw;
+  height: 30vh;
+  background-color: #573F2E;
+}
+.box2{
+  width: 70vw;
+  height: 30vh;
+  background-color: #3E2D21;
+}
+.top{
+  display: flex;
+}
+
+.box3{
+  width: 30vw;
+  height: 70vh;
+  background-color: #FAEDED;
+}
+
+.box4{
+  width: 70vw;
+  height: 49vh;
+  background-color: #6A4021;
+}
+.box5{
+  width: 70vw;
+  height: 21vh;
+  background-color: #3E2D21;
+}
+/* .bottomreft{
+  width: 100vw;
+  height: 100vh;
+} */
+
+
+.bottom{
+  display: flex;
+} 
